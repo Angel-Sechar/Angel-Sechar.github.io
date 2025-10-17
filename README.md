@@ -24,9 +24,6 @@ I enjoy turning complex requirements into simple, maintainable solutions — and
 
 ---
 
-## 🌐 Personal site
-[**angel-sechar.github.io**](https://angel-sechar.github.io)
-
 ---
 
-> “Code is only as good as the understanding behind it.”
+> “The good architecture is the one you don't have to explain about.”
